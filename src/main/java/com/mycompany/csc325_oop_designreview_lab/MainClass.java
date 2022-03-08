@@ -20,9 +20,9 @@ public class MainClass {
                 // ToDo 8: The senior class should have a minimum of 85 credits  
 		
 		// ToDo 9: Add a toString method for Freshman class
-		
+		//DONE
                 // ToDo 10: Add a toString method for Senior class
-                
+                //DONE
 		Freshman std1= new Student("James", 20, 12); // name, age, credits
                 
                 Senior std2 = new Student("John", 30, 90);
